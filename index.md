@@ -1,9 +1,9 @@
  <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h1 class="panel-title">
+      <h2 class="panel-title">
           <a data-toggle="collapse" href="#collapse1">WorldViewR</a>
-      </h1>
+      </h2>
     </div>
     <div id="collapse1" class="panel-collapse collapse">
       <div class="panel-body">
@@ -73,7 +73,7 @@
   </div>
 </div> 
 
-<h1><button type="button" class="collapsible collapsible-block" style="background-color:649568">WorldViewR Pro</h1></button></h1>
+<h2><button type="button" class="collapsible collapsible-block" style="background-color:649568">WorldViewR Pro</button></h2>
 <div class="content">
 
 Coming soon...
