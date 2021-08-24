@@ -1,1 +1,3 @@
-www.worldviewr.com
+type  = CNAME
+name  = www
+value = jcallura.github.io/WorldViewR.
