@@ -1,3 +1,6 @@
+<button type="button" class="collapsible collapsible-block" style="background-color:#2b5329"><h1>WorldViewR</h1></button>
+<div class="content">
+
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
 <details style="margin-top:20px">
@@ -56,6 +59,13 @@
         </fieldset>
         <input type="submit" value="Submit">
     </form>
-</details>
 
-### Coming Soon: WorldViewR Pro
+    </details>
+
+</div> 
+
+<button type="button" class="collapsible collapsible-block" style="background-color:#2b5329"><h1>WorldViewR Pro</h1></button>
+<div class="content">
+
+Coming soon...
+    </div>
