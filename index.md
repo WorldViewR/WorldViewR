@@ -1,7 +1,14 @@
-<button type="button" class="collapsible collapsible-block" style="background-color:#2b5329"><h1>WorldViewR</h1></button>
-<div class="content">
+ <div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h1 class="panel-title">
+          <a data-toggle="collapse" href="#collapse1">WorldViewR</a>
+      </h1>
+    </div>
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">
 
-### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
+          ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
 <details style="margin-top:20px">
     <summary><strong>Instructions</strong></summary>
@@ -61,7 +68,9 @@
     </form>
 
     </details>
-
+          
+        </div>
+  </div>
 </div> 
 
 <button type="button" class="collapsible collapsible-block" style="background-color:#2b5329"><h1>WorldViewR Pro</h1></button>
