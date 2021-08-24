@@ -2,8 +2,8 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h2 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        WorldViewR</a>
+        <div data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+        WorldViewR</div>
       </h2>
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
@@ -72,8 +72,8 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h2 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-        WorldViewR Pro</a>
+        <div data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+        WorldViewR Pro</div>
       </h2>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
