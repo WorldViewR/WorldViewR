@@ -3,7 +3,7 @@
     <div class="panel-heading">
       <h2 class="panel-title">
         <div data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        WorldViewR</div>
+        WorldViewR Web App</div>
       </h2>
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
