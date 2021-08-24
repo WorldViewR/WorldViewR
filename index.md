@@ -70,14 +70,14 @@
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading">
+    <div class="panel-heading" style="margin-top:30px">
       <h2 class="panel-title">
         <div data-toggle="collapse" data-parent="#accordion" href="#collapse2">
         WorldViewR Pro</div>
       </h2>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body", style="margin-top:30px">Coming soon...</div>
+      <div class="panel-body">Coming soon...</div>
     </div>
   </div>
 </div> 
