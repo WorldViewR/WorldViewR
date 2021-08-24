@@ -77,7 +77,7 @@
       </h2>
     </div>
     <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">Coming soon...</div>
+      <div class="panel-body", style="margin-top:30px">Coming soon...</div>
     </div>
   </div>
 </div> 
