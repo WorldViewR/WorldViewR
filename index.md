@@ -80,6 +80,5 @@
       <div class="panel-body">Coming soon...</div>
     </div>
   </div>
-  </div>
 </div> 
 
