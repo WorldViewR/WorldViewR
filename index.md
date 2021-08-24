@@ -73,7 +73,7 @@
   </div>
 </div> 
 
-<button type="button" class="collapsible collapsible-block" style="background-color:#2b5329"><h1>WorldViewR Pro</h1></button>
+<h1><button type="button" class="collapsible collapsible-block" style="background-color:649568">WorldViewR Pro</h1></button></h1>
 <div class="content">
 
 Coming soon...
