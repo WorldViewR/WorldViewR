@@ -1,4 +1,3 @@
-## WorldViewR
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
 <details style="margin-top:20px">
@@ -58,5 +57,3 @@
         <input type="submit" value="Submit">
     </form>
 </details>
- 
-Test B
