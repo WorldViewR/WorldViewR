@@ -1,14 +1,13 @@
- <div class="panel-group">
+<div class="panel-group" id="accordion">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h2 class="panel-title">
-          <a data-toggle="collapse" href="#collapse1">WorldViewR</a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+        WorldViewR</a>
       </h2>
     </div>
-    <div id="collapse1" class="panel-collapse collapse">
-      <div class="panel-body">
-
-          ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
+    <div id="collapse1" class="panel-collapse collapse in">
+      <div class="panel-body"><h3>Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a></h3>
 
 <details style="margin-top:20px">
     <summary><strong>Instructions</strong></summary>
@@ -67,14 +66,20 @@
         <input type="submit" value="Submit">
     </form>
 
-    </details>
-          
-        </div>
+    </details></div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h2 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+        WorldViewR Pro</a>
+      </h2>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse">
+      <div class="panel-body">Coming soon...</div>
+    </div>
+  </div>
   </div>
 </div> 
 
-<h2><button type="button" class="collapsible collapsible-block" style="background-color:649568">WorldViewR Pro</button></h2>
-<div class="content">
-
-Coming soon...
-    </div>
