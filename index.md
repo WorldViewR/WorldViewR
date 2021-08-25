@@ -1,13 +1,5 @@
-<div class="panel-group" id="accordion">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h2 class="panel-title">
-        <div data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        Web Application</div>
-      </h2>
-    </div>
-    <div id="collapse1" class="panel-collapse collapse in">
-      <div class="panel-body"><h3>Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a></h3>
+<h2>Web Application</h2>
+<h3>Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a></h3>
 
 <details style="margin-top:20px">
     <summary><strong>Instructions</strong></summary>
@@ -66,19 +58,8 @@
         <input type="submit" value="Submit">
     </form>
 
-    </details></div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading" style="margin-top:30px">
-      <h2 class="panel-title">
-        <div data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-        WorldViewR Pro</div>
-      </h2>
-    </div>
-    <div id="collapse2" class="panel-collapse collapse">
-      <div class="panel-body">Coming soon...</div>
-    </div>
-  </div>
-</div> 
+</details>
+
+<h2 style="margin-top=30px">WorldViewR Pro</h2>
+Coming soon...
 
