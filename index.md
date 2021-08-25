@@ -63,4 +63,4 @@
 <h2 style="margin-top=40px">WorldViewR Pro</h2>
 Coming soon...
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfI9v8nce9wPsi3ywQYPBVtkLFvxyN5RKmTNPkN6kQ-mFu7oA/viewform?embedded=true" width="640" height="840" frameborder="0" marginheight="0" marginwidth="0">Join the waiting list or provide feedback for WorldViewR Pro</iframe>
+<a src="https://docs.google.com/forms/d/e/1FAIpQLSfI9v8nce9wPsi3ywQYPBVtkLFvxyN5RKmTNPkN6kQ-mFu7oA/viewform?embedded=true">Join the waiting list or provide feedback for WorldViewR Pro</a>
