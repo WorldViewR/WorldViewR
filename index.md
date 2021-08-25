@@ -60,6 +60,6 @@
 
 </details>
 
-<h2 style="margin-top=30px">WorldViewR Pro</h2>
+<h2 style="margin-top=40px">WorldViewR Pro</h2>
 Coming soon...
 
