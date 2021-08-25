@@ -63,4 +63,4 @@
 <h2 style="margin-top=40px">WorldViewR Pro</h2>
 Coming soon...
 
-<a src="https://docs.google.com/forms/d/e/1FAIpQLSfI9v8nce9wPsi3ywQYPBVtkLFvxyN5RKmTNPkN6kQ-mFu7oA/viewform?embedded=true">Click to join the waiting list for WorldViewR Pro</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfI9v8nce9wPsi3ywQYPBVtkLFvxyN5RKmTNPkN6kQ-mFu7oA/viewform?embedded=true">Click to join the waiting list for WorldViewR Pro</a>
