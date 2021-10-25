@@ -1,4 +1,4 @@
-<h2><a href="http://app.worldviewr.com" class="button">Launch Web Application</a></h2>
+<h2><a href="http://44.230.157.126:3838" class="button">Launch Web Application</a></h2>
 <!--<h2>Launch Web Application [ <a href="http://app.worldviewr.com" class="button">Server A</a> | <a href="http://app2.worldviewr.com" class="button">Server B</a> ]</h2>-->
 <!--<h2>Web Application</h2>-->
 <!--<h3>Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a></h3>-->
