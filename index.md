@@ -1,3 +1,6 @@
+<iframe src="https://jcallura.shinyapps.io/WorldViewR" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"> </iframe>
+
+<!--
 <h2><a href="https://jcallura.shinyapps.io/WorldViewR/" class="button">Launch Web Application</a></h2>
 <!--<h2><a href="http://app.worldviewr.com" class="button">Launch Web Application</a></h2>-->
 <!--<h2>Launch Web Application [ <a href="http://app.worldviewr.com" class="button">Server A</a> | <a href="http://app2.worldviewr.com" class="button">Server B</a> ]</h2>-->
@@ -69,3 +72,4 @@
 Support for higher resolution models, more capabilities, and active feature development. Coming soon...
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScJQAryQm0fvq5z4FOHkX8GcrBlIwnonwh1RT8RnY9fTSTYdA/viewform">Click to join the waiting list for WorldViewR Pro</a>-->
+-->
